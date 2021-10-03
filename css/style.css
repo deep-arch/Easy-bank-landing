@@ -477,6 +477,7 @@ footer .copyright {
     color: hsl(233, 26%, 24%);
     font-size: 25px;
     width: 400px;
+    margin-top: 15px;
     margin-bottom: 5%;
   }
 
